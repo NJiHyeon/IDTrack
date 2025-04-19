@@ -10,7 +10,7 @@ IDTrack models tracking as a **Coordinates generation** task. Use image features
 ### GOT-10k Performance
 | Tracker      |      AO      |    SR_0.5    |    SR_0.75    |
 |--------------|--------------|--------------|---------------|
-| **IDTrack**  |   **72.0**   |   **81.3**   |    **68.5**   |
+| **IDTrack**  |   **73.0**   |   **81.3**   |    **68.5**   |
 | ARTrack      |     73.5     |     82.2     |      70.9     |
 | OSTrack      |     71.0     |     80.4     |      68.2     |
 | MixFormer    |     70.7     |     80.0     |      67.8     |
